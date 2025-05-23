@@ -1,4 +1,4 @@
-# 5.multiplication table
+# 5. MULTIPLICATION TABLE
 
 import java.util.Scanner;
 public class MultiplicationTable {
