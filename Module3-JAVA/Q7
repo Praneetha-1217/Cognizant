@@ -1,0 +1,14 @@
+# 7. TYPE-CASTING
+
+public class TypeCastingExample {
+    public static void main(String[] args) {
+        double num = 2.24;
+        int myInt = (int)num;
+        System.out.println("Original val: " + num);
+        System.out.println("After casting : " + myInt);
+        int num1 = 44;
+        double myDouble = num1;
+        System.out.println("Original val: " + num1);
+        System.out.println("After casting : " + mydouble);
+    }
+}
