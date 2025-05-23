@@ -1,0 +1,16 @@
+# 6.DATATYPE
+
+public class Data {
+    public static void main(String[] args) {
+        int myInt = 17;
+        float myFloat = 21.17f;
+        double myDouble = 1721.2117;
+        char myChar = 'N';
+        boolean myBoolean = true;
+        System.out.println("Integer value: "+myInt);
+        System.out.println("Float value: " + myFloat);
+        System.out.println("Double value: " + myDouble);
+        System.out.println("Character value: " + myChar);
+        System.out.println("Boolean value: " + myBoolean);
+    }
+}
