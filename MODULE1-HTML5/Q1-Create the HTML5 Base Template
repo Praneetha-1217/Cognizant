@@ -1,1 +1,12 @@
+<!- index.html->
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<body>
+<nav>
+<main>Creating the html5 base template</main>
+<footer>End of the page</footer>
+</nav>
+</body>
+</html>
 
