@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>Welcome Banner</title>
+<style>
+#Welcome-banner {
+padding:20x;
+background:orange;
+text-align:center;
+}
+.highlight {
+background:green;
+}
+</style>
+</head>
+<body>
+<div id="Welcome- banner">
+<h1> Hey guys! Welcome to the club!</h1>
+<h3>club is <span style="color:blue"> open now </span></h3>
+</div>
+<p>Now the music is stopped.</p>
+<p class="highlight">Upcoming events and activities are listed here.</p>
+</body>
+</html>
