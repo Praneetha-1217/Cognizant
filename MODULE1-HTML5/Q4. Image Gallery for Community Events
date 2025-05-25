@@ -1,1 +1,52 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+.event-img {
+border: 3px solid blue;  
+}
+table {
+margin: 30px auto;         
+}
+caption {
+margin-bottom: 15px;
+color: Blue;
+}
+td {
+padding: 15px;
+text-align: center;
+}
+ </style>
+<body>
+<table> 
+<caption><h1> List of events..</h1> </caption>
+<tr>
+      <td>
+                <img src="C:\Users\user\Pictures\Screenshots\Fun Run.png" alt="Running" title="Fun Run" 	class="event-img">
+        <div><li>Fun-Run</li></div>
+      </td>
+<td>
+                <img src="C:\Users\user\Pictures\Screenshots\Bingo.png" alt="Bingo" title="Bingo" 	class="event-img">
+        <div><li>Bingo</li></div>
+      </td>
+<td>
+                <img src="C:\Users\user\Pictures\Screenshots\Block Party.png" alt="Game" title="Block Party" 	class="event-img">
+        <div><li>Block Party</li></div>
+      </td>
+</tr>
+<td>
+                <img src="C:\Users\user\Pictures\Screenshots\Quiz Night.png" alt="Quiz" title="Quiz Night" class="event-img">
+        <div><li>Quiz Night</li></div>
+      </td>
+<td>
+                <img src="C:\Users\user\Pictures\Screenshots\Groove on the Green.png" alt="Music" title="Music" class="event-img">
+        <div><li>Classic Chords</li></div>
+      </td>
+<td>
+                <img src="C:\Users\user\Pictures\Screenshots\Cultural Food.png" alt="food" title="food" class="event-img">
+        <div><li>Flavours of the World</li></div>
+      </td>
+</tr>
+</table>
+</body>
+<html>
